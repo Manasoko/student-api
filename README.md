@@ -2,8 +2,6 @@
 
 A simple RESTful CRUD API for managing student records. This service exposes a minimal set of endpoints under the `/api/v1` prefix to create, read, update, and delete student profiles.
 
-> NOTE: This README documents the API contract, example requests/responses, validation rules, error handling, and instructions for running and contributing. Adjust environment and datastore details to match your implementation.
-
 ---
 
 ## Table of contents
@@ -187,7 +185,3 @@ Optional: run with Docker by providing a Dockerfile and docker-compose.yml point
 - Fork the repo, create a feature branch, open a PR.
 - Follow existing code style, add tests for new behavior, and update README where necessary.
 - Then build it with `make build`
-
-
---- 
-This README is intentionally implementation-agnostic; adapt validation, auth, and storage details to your chosen stack.
