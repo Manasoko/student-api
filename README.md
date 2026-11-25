@@ -188,9 +188,6 @@ Optional: run with Docker by providing a Dockerfile and docker-compose.yml point
 - Follow existing code style, add tests for new behavior, and update README where necessary.
 - Then build it with `make build`
 
-## License
-
-- Specify your license (e.g., MIT). Add a LICENSE file to the project root.
 
 --- 
 This README is intentionally implementation-agnostic; adapt validation, auth, and storage details to your chosen stack.
